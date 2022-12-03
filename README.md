@@ -24,7 +24,7 @@
 - A passionate Self-taught Software developer
 - Currently learning Web Development
 - Personal website [link](https://moinul-islam.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1eD9I5zQKU8YQvOLveCL1K7ifA_GOB7HS/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/17G_Fe1HQx6yhelLdFeX1nQyHPyw_0F9d/view?usp=sharing)
 
 <br><br>
 
