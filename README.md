@@ -26,10 +26,12 @@
 - Check out my website [here](https://moinul-islam.netlify.app/)
 - Open to exciting new job opportunities, view [my resume](https://drive.google.com/file/d/1NYNqrCWpI33T_VnBzyXxRMrBpN-e-N4Z/view?usp=sharing)
 
+<br><br>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
-## <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="25">
-
 
 <p align="center">
 
