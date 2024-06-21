@@ -23,7 +23,7 @@
 - Driven and self-taught software and web developer
 - Currently thriving as a Junior Developer at Core Devs Ltd.
 - Accumulated 1.6 years of hands-on development experience
-- Check out my personal website [here](https://moinul-islam.netlify.app/)
+- Check out my website [here](https://moinul-islam.netlify.app/)
 - Open to exciting new job opportunities, view [my resume](https://drive.google.com/file/d/1NYNqrCWpI33T_VnBzyXxRMrBpN-e-N4Z/view?usp=sharing)
 
 <br>
