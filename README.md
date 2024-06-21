@@ -15,10 +15,8 @@
 
 	
 ##  **About me**
-
-<picture> <br> <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width=250px></picture>
-
-<br>
+<br/>
+<picture> <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width=250px></picture>
 
 - Driven and self-taught software and web developer
 - Currently thriving as a Junior Developer at Core Devs Ltd.
