@@ -20,8 +20,8 @@
 
 - Driven and self-taught software Engineer
 - Currently thriving as a Software Engineer at Gigalogy.
-- Accumulated 2.5 years of hands-on development experience
-- Check out my website [here](https://moinul-islam.netlify.app/)
+- Accumulated 3 years of hands-on development experience
+- Check out my website [here](https://moinulislam7.github.io/)
 - Open to exciting new job opportunities, view [my resume](https://drive.google.com/file/d/1NYNqrCWpI33T_VnBzyXxRMrBpN-e-N4Z/view?usp=sharing)
 
 <br><br>
